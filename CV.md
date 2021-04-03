@@ -22,7 +22,7 @@
 
    - **Bioquímica Nuclear** *Universidad de Culver - Vorginia del Norte - Norte*
    
-   - **Especialización en Estudios de las Mujeres y de Género( _if you know what i mean_ )** *UBABA - ARG*
+   - **Ingeniería Informática** *UBP - ARG*
 
 -----------------------------------------------------
 
