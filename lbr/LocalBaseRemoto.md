@@ -12,3 +12,5 @@
 
 * __BASE:__ El archivo base es aquél que se genera ante un conflicto de código en un mismo archivo al haber 2 versiones diferentes de las mismas líneas de código entre el archivo local y el remoto. Sobre el archivo base se realizan las resoluciones de conflictos y desde allí se realiza un commit al archivo local para luego poder realizar un push al archivo remoto.
 	
+
+[Volver](https://github.com/tomaslicenciado/LAB4-TP1)

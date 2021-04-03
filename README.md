@@ -148,10 +148,13 @@ Realizamos un push al origen remoto con los cambios aplicados
 
 6 Conceptos básicos de Archivos Locales, Base y Remotos
 
-* [Archivo Local, Base y Remoto](lbr/LoclaBaseRemoto.md)
+* [Archivo Local, Base y Remoto](lbr/LocalBaseRemoto.md)
 
 7 Resolución de conflictos y merge
 
 ![Resolución Conflictos](imagenes/5-5_GitKraken_Pull_Resolución_Conflictos.png "Resolución Conflictos")
 
 
+
+
+[Volver](https://github.com/tomaslicenciado/LAB4-TP1)
