@@ -1,10 +1,10 @@
-#Ejercicio 4 - TP1 - LAB4 - Ingeniería Informática UBP - 2020
+# Ejercicio 4 - TP1 - LAB4 - Ingeniería Informática UBP - 2020
 
 #### Ferreyra Tomás
 
-##Pull Request
+## Pull Request
 
-###Definición:
+### Definición:
 
 	Un pull request es un proceso por el cual se realiza una petición para fusionar cambios en otra rama. 
 	Es comúnmente utilizado a la hora de realizar trabajos en equipo o colaborativo a través de repositorios compartidos o públicos.
