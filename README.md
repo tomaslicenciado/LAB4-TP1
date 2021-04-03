@@ -142,9 +142,9 @@ Realizamos un push al origen remoto con los cambios aplicados
 
 5 Recurrimos a GitKraken para visualización de conflictos
 
-![Conflictos 1](imagenes/5-4_GitKraken _Pull_Conflictos.png "Conflictos 1")
+![Conflictos 1](imagenes/5-4_GitKraken_Pull_Conflictos.png "Conflictos 1")
 
-![Conflictos 1](imagenes/5-4_GitKraken _Pull_Conflictos_2.png "Conflictos 1")
+![Conflictos 1](imagenes/5-4_GitKraken_Pull_Conflictos_2.png "Conflictos 1")
 
 6 Conceptos básicos de Archivos Locales, Base y Remotos
 
@@ -152,6 +152,6 @@ Realizamos un push al origen remoto con los cambios aplicados
 
 7 Resolución de conflictos y merge
 
-![Resolución Conflictos](imagenes/5-5_GitKraken _Pull_Resolución_Conflictos.png "Resolución Conflictos")
+![Resolución Conflictos](imagenes/5-5_GitKraken_Pull_Resolución_Conflictos.png "Resolución Conflictos")
 
 
