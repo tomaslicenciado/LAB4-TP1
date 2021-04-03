@@ -46,3 +46,15 @@ Subir Cambios Locales a Reposiorio Remoto
 	
 ![Primer Push](imagenes/3-3_Primer_Push.png "Primer Push")
 
+### Ejercicio 4
+
+Proceso de Pull Request
+
+Creamos la nueva rama *branchpr*
+
+Creamos el archivo **[PullRequest.md](pull_request/PullRequest.md)**
+
+Realizamos un push al origen remoto con los cambios aplicados
+
+![Enviando Rama branchpr al Repositorio Remoto](imagenes/4-1_Push_Nueva_Rama_Pull_Request.png "Enviando Rama branchpr al Repositorio Remoto")
+
