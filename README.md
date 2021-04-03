@@ -58,3 +58,26 @@ Realizamos un push al origen remoto con los cambios aplicados
 
 ![Enviando Rama branchpr al Repositorio Remoto](imagenes/4-1_Push_Nueva_Rama_Pull_Request.png "Enviando Rama branchpr al Repositorio Remoto")
 
+###### Paso a paso de Pull Request en GitHub:
+
+1 ![Paso 1](imagenes/4-2_Pull_Request_GitHub_1.png "Paso 1")
+
+
+2 ![Paso 2](imagenes/4-2_Pull_Request_GitHub_2.png "Paso 2")
+
+
+3 ![Paso 3](imagenes/4-2_Pull_Request_GitHub_3.png "Paso 3")
+
+
+4 ![Paso 4](imagenes/4-2_Pull_Request_GitHub_4.png "Paso 4")
+
+
+5 ![Paso 5](imagenes/4-2_Pull_Request_GitHub_5.png "Paso 5")
+
+
+6 ![Paso 6](imagenes/4-2_Pull_Request_GitHub_6.png "Paso 6")
+
+
+7 ![Paso 7](imagenes/4-2_Pull_Request_GitHub_Master_Completo.png "Paso 7")
+
+
